@@ -1,0 +1,6 @@
+.env
+*.exe
+/bin/
+/data/
+*.db
+.idea/
